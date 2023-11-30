@@ -26,6 +26,10 @@ Visit our [website](https://remulate.co) to access the REmulate emulator. No ins
 
 Design and customize Pyplot charts directly through the UI. Tailor the visual representation of data to your preferences, making analysis and interpretation a breeze.
 
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/IWcpSaJlab4/maxresdefault.jpg)](https://www.youtube.com/watch?v=IWcpSaJlab4)
+
 ## Contributions
 
 We welcome contributions from the community to enhance the functionality and features of REmulate. Feel free to fork the repository, open issues, or submit pull requests.
